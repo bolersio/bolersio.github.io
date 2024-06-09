@@ -1,0 +1,9 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bolersio.github.io/sitemap.html
+Sitemap: https://bolersio.github.io/app/sitemap.html
+Sitemap: https://bolersio.github.io/assets/sitemap.html
+Sitemap: https://bolersio.github.io/css/sitemap.html
+Sitemap: https://bolersio.github.io/includes/sitemap.html
+Sitemap: https://bolersio.github.io/src/sitemap.html
